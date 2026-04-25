@@ -19,7 +19,6 @@ def guess_number():
          if player != computer_choise :
             attempts += 1
             print("Wrong Guess Try Again")
-            print("My choise is " , computer_choise)
             print(attempts)
        
             print("Wrong Guess Try Again")
