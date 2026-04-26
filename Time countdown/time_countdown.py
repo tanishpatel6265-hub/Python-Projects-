@@ -12,6 +12,6 @@ def countimer() :
      print(timer , end='\r')
      time.sleep(1)
      no_of_second -= 1
- print("Time Up !!!")   
+  print("Time Up !!!")   
     
 countimer()
